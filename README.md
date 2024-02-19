@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+![[1](https://github-readme-stats.vercel.app/api?username=onlya&show_icons=true&theme=monokai)](https://github-readme-stats.vercel.app/api?username=onlya&show_icons=true&theme=monokai)
+![[2](https://github-readme-stats.vercel.app/api/top-langs/?username=onlya&layout=compact&theme=monokai)](https://github-readme-stats.vercel.app/api/top-langs/?username=onlya&layout=compact&theme=monokai)
 <!--
 **ONLYA/ONLYA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
